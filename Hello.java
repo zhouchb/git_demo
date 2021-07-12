@@ -10,6 +10,6 @@ public class Hello{
 		System.out.println("查看状态 git status");
 		System.out.println("master 修改");
 		System.out.println("查看状态 hot-fix");
-		System.out.println("hot-fix修改");
+		System.out.println("再一次master修改");
 	}	
 }
