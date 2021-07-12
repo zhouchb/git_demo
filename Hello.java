@@ -11,6 +11,7 @@ public class Hello{
 		System.out.println("master 修改");
 		System.out.println("查看状态 hot-fix");
 		System.out.println("再一次master修改+hot-fix修改");
+		people();//调用people（）
 	}	
 	pbulic int people(){
 	System.out.println("我能够使用工具");
