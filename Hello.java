@@ -13,7 +13,8 @@ public class Hello{
 		System.out.println("再一次master修改+hot-fix修改");
 		people();//调用people（）
 	}	
-	pbulic int people(){
+	pbulic int people(int num){
 	System.out.println("我能够使用工具");
+	System.out.println("我有"+num+"个人");
 	}
 }
